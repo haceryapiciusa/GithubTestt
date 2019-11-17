@@ -9,5 +9,6 @@ public class CarBranch {
     }
     public String getModel2(){
         return model2;
+
     }
 }
