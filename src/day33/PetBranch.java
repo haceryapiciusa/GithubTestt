@@ -6,7 +6,5 @@ public class PetBranch {
         pet.leg = 4;
         int leg = pet.getLeg();
         System.out.println(leg);
-
-
     }
 }
